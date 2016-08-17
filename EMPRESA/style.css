@@ -1,0 +1,96 @@
+﻿body{
+	background: #0B0B3B;
+}
+
+/*===MENU===*/
+#nav {
+	width:960px;
+	background:black;
+	margin-top: 50px;
+	margin-left: 180px;
+        float:left ;
+	border-radius:5px;
+}
+
+#nav ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+	width:100%;
+	float:left;
+}
+#nav ul li{
+	float:left;
+	font:16px arial;
+	border-right:1px solid #0B0B3B;
+	
+}
+#nav ul li a{
+	color: white;
+	text-decoration:none;
+	padding:49.7px;
+	display:block;
+	height:10;
+}
+#nav ul li:hover{
+	background:#0174DF;
+}
+#nav ul li .home{
+	background: #049 url(image/01-home.png) no-repeat center;
+	float:left;
+	width:100%;
+	padding:30px 0;
+	margin-bottom:15px;
+}
+#nav ul li .missão{
+	background: #049 url(image/02-missão.png) no-repeat center;
+	float:left;
+	width:100%;
+	padding:30px 0;
+	margin-bottom:15px;
+}
+#nav ul li .preços{
+	background: #049 url(image/03-preços.png) no-repeat center;
+	float:left;
+	width:100%;
+	padding:30px 0;
+	margin-bottom:15px;
+}
+#nav ul li .funcionários{
+	background: #049 url(image/04-funcionários.png) no-repeat center;
+	float:left;
+	width:100%;
+	padding:30px 0;
+	margin-bottom:15px;
+}
+#nav ul li .eventos{
+	background: #049 url(image/05-eventos.png) no-repeat center;
+	float:left;
+	width:100%;
+	padding:30px 0;
+	margin-bottom:15px;
+}
+#nav ul li .contatos{
+	background: #049 url(image/06-contatos.png) no-repeat center;
+	float:left;
+	width:100%;
+	padding:30px 0;
+	margin-bottom:15px;
+}
+h1{
+	color: black;
+    text-shadow: 0 0 0.2em #0404B4, 0 0 0.2em #0404B4;
+	font-family:Informal Roman;
+	font-size:80px;
+	text-align:center;
+}
+
+p{
+text-align:left;
+	font-family:Comic Sans MS;
+	font-size:18pt;
+	color:black;
+	margin-left: 25px;
+	margin-right: 25px;
+     text-decoration: justify;
+}

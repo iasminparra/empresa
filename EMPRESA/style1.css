@@ -1,0 +1,22 @@
+
+body{
+	background: #0B0B3B;
+}
+h1{
+	color: black;
+	text-shadow:#0174DF ;
+	font-family:Informal Roman;
+	font-size:65px;
+	text-align:center;
+}
+
+
+p{
+text-align:left;
+	font-family:Comic Sans MS;
+	font-size:18pt;
+	color:black;
+	margin-left: 45px;
+	margin-right: 25px;
+     text-decoration: justify;
+}
